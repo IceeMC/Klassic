@@ -1,0 +1,24 @@
+{
+    "name": "klassic",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "superagent": "^3.8.3",
+        "ws": "^5.2.1"
+    },
+    "devDependencies": {
+        "eslint": "^5.0.1",
+        "eslint-config-quark": "github:quarksworks/quark-lint",
+        "eslint-config-standard": "^11.0.0",
+        "eslint-plugin-import": "^2.13.0",
+        "eslint-plugin-node": "^6.0.1",
+        "eslint-plugin-promise": "^3.8.0",
+        "eslint-plugin-standard": "^3.1.0"
+    }
+}
